@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "Card Club Arcade",
+  "short_name": "Card Club Arcade",
+  "description": "A welcoming collection of card games. Play against bots, pass and play, or invite people with a room code.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "display_override": ["fullscreen", "standalone"],
+  "background_color": "#f4e4bf",
+  "theme_color": "#d6a64e",
+  "icons": [
+    { "src": "/brand-mark.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
